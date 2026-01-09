@@ -1,0 +1,24 @@
+Soccer Training Statistics
+=========================
+
+Total Goals Made: 3
+
+<4m: 3 goals (100.00%)
+4-5m: 0 goals (0.00%)
+5-6m: 0 goals (0.00%)
+6-7m: 0 goals (0.00%)
+7-8m: 0 goals (0.00%)
+8-9m: 0 goals (0.00%)
+9-10m: 0 goals (0.00%)
+10-11m: 0 goals (0.00%)
+11-12m: 0 goals (0.00%)
+12-13m: 0 goals (0.00%)
+13-14m: 0 goals (0.00%)
+14-15m: 0 goals (0.00%)
+15-16m: 0 goals (0.00%)
+16-17m: 0 goals (0.00%)
+17-18m: 0 goals (0.00%)
+18-19m: 0 goals (0.00%)
+>19m: 0 goals (0.00%)
+
+Most goals scored in: <4m (100.00% success rate)

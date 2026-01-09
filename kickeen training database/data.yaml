@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['ball', 'goalpost', 'player']
+
+roboflow:
+  workspace: kickeen
+  project: kickeen-2-j9f4g
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kickeen/kickeen-2-j9f4g/dataset/2
