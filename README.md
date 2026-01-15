@@ -3,7 +3,7 @@ KICKEEN: A SMART CAMERA-BASED SOCCER ASSISTANT FOR GOAL ACCURACY MONITORING
 
 
 # KICKEEN: Smart Camera-Based Soccer Assistant 
-<img src="ui.png" alt="Main Menu" width="400"/>
+<img src="ui.png" alt="Main Menu" width="640"/>
 ## Overview
 Accurate monitoring and objective feedback of shooting performance remain a significant challenge for grassroots and amateur soccer players due to the high cost and complexity of existing commercial systems. **KICKEEN** addresses this gap by providing a **cost-effective, real-time training solution** for goal accuracy monitoring.
 
