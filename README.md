@@ -1,5 +1,5 @@
-
 Capstone of Julien Ibalio
+
 <img src="logo.png" alt="Main Menu" width="640"/>
 # KICKEEN: Smart Camera-Based Soccer Assistant 
 
