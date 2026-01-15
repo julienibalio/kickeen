@@ -1,5 +1,6 @@
 Capstone of Julien Ibalio
 KICKEEN: A SMART CAMERA-BASED SOCCER ASSISTANT FOR GOAL ACCURACY MONITORING
+<img src="logo.png" alt="Main Menu" width="640"/>
 
 
 # KICKEEN: Smart Camera-Based Soccer Assistant 
